@@ -1,2 +1,2 @@
 product = 25 * 16
-remainder = 1398
+remainder = 1398 % 11
