@@ -7,3 +7,9 @@ is_this_number_odd = 15 % 2
 is_this_number_divisible_by_seven = 133 % 7
 
 print("")
+print("")
+print("")
+print("")
+print("")
+print("")
+print("")
