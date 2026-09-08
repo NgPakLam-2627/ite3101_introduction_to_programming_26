@@ -1,3 +1,3 @@
 float_1 = 0.25
 float_2 = 40.0
-string_addition = number1 + numbe2 
+string_addition = numbe1 + float2 
