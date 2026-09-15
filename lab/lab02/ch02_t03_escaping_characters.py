@@ -2,4 +2,4 @@
 # Uncomment the following line!
 # 'This isn't flying, this is falling with style!'
 
-'There \s a snake in my boot!'
+'There'\s a snake in my boot!'
