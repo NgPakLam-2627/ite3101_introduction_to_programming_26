@@ -10,7 +10,7 @@ bool_two = (1==1) or (3 > 5)
 bool_three = not (5==5)
 
 # Make me true!
-bool_four = (10 > 5) and 
+bool_four = (10 > 5) and not False
 
 # Make me true!
-bool_five = True or False
+bool_five = True
