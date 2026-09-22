@@ -13,4 +13,4 @@ bool_three = not (5==5)
 bool_four = (10 > 5) and not False
 
 # Make me true!
-bool_five = True
+bool_five = True or False
