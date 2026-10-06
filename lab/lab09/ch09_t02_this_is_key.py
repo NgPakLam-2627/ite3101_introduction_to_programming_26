@@ -8,4 +8,4 @@ webster = {
 # Add your code below!
 
 for key in webster :
-    perint(webster)
+    print(webster)
