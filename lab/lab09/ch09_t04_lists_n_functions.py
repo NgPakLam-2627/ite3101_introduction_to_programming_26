@@ -1,5 +1,5 @@
 # Write your function below!
-from  typing 
+from  typing i
 
 def fizz_count(x: List[str]):
     count = 0 
