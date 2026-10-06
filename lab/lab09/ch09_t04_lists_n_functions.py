@@ -1,5 +1,5 @@
 # Write your function below!
-from  typing i
+from  typing import List
 
 def fizz_count(x: List[str]):
     count = 0 
@@ -7,3 +7,5 @@ def fizz_count(x: List[str]):
         if item == "fizz" :
             count += 1
     return count
+
+print(fizz_coun(["fizz","cat",""]))
