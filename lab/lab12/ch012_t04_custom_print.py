@@ -3,5 +3,5 @@ for i in range(5):
     board.append(['O'] * 5)
 
 def print_borad(coard_in:List[list[str]]):
-    dor row in board_in:
+    for row in board_in:
         print(row)
