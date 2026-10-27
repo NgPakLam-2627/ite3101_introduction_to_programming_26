@@ -4,4 +4,4 @@ for i in range(5):
 
 def print_borad(coard_in:List[list[str]]):
     dor row in board_in:
-    print(row)
+        print(row)
