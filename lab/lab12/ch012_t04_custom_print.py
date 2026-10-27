@@ -4,4 +4,4 @@ for i in range(5):
 
 def print_borad(board_in: list[list[str]]):
     for row in board_in:
-        print(row)
+        print(" ".join(row)
